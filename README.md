@@ -2,7 +2,7 @@
 Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
-## Tribute Page 
+## 1. Tribute Page 
 ------------------
 
 Check on: [@Gesiane: Tribute Page](https://codepen.io/Gesiane/full/povYbYw)   
@@ -14,7 +14,7 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 [License](https://codepen.io/Gesiane/pen/povYbYw/license).
 
 ***
-## Survey Form-Library
+## 2. Survey Form-Library
 ------------------------
  Check on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
  
