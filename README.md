@@ -1,11 +1,10 @@
-# FCC-ResponsiveWebDesign
-Portfolio from freecodecamp.org
-FCC: Tribute Page 
+# Responsive Web Design
+## Tribute Page 
 ------------------
 Portfolio for Responsive Web Design   
 Practicing at FreeCodeCamp.org
 
-Check on: [@Gesiane: Tribute Page](https://codepen.io/Gesiane/full/povYbYw)
+Check on: [@Gesiane: Tribute Page](https://codepen.io/Gesiane/full/povYbYw)   
 ![image] (https://github.com/GePajarinen/FCC-ResponsiveWebDesign/blob/master/Build%20a%20Tribute%20Page/tribute.png?raw=true)
 
 
