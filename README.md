@@ -13,9 +13,11 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 [License](https://codepen.io/Gesiane/pen/povYbYw/license).
 
 ***
-FCC: Survey Form-Library
+## Survey Form-Library
 ------------------------
-  site : https://codepen.io/Gesiane/full/OJPevNz
+ Check on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
+ 
+ ![image](https://github.com/GePajarinen/FCC-ResponsiveWebDesign/blob/master/Build%20a%20Survey%20Form/Survey%20Form.png?raw=true)
 
 A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://codepen.io/Gesiane) on [CodePen](https://codepen.io).
 
