@@ -1,0 +1,124 @@
+/*!still somethings to do!*/
+body{ 
+/*add font e redimencionar pra moble*/
+  position:relative;
+  background-color: #e6e6e6;
+  margin:0;
+}
+nav {
+  position: sticky;
+  z-index: 1;
+  top:0;
+  background-color: #1ABC9C;
+  box-sizing: border-box;
+  height: 40px;
+  padding-top: 10px;
+}
+a {
+  text-decoration: none;
+}
+.logo{
+  width: 30%;
+  border: 0%;
+  position: absolute;
+ 
+}
+.nav-link{
+  color: white;
+  
+}
+li{
+  list-style-type:none; 
+}
+
+ul{
+  width: 70%;
+  position: absolute;
+  right:0px;
+  margin-top:0px;
+  margin-botton: 0px;
+  display: flex; 
+  justify-content: space-around;
+}
+#section {
+  padding: 30px 0 30px 0;
+  text-align: center;
+}
+ form {
+  text-align: center;
+}
+.content{
+  margin:auto;
+  width:60%;
+  line-height: 1.5;
+  text-align: justify;
+}
+.box{
+padding-bottom:30px;
+}
+.block{
+  box-sizing: border-box;
+  width: 250px;
+  padding:0 0 20px 0;
+  border: 1px solid black;
+  /*border-style: double;*/
+}
+/*moble: em lista*/
+.select {
+  padding: 50px 0 50px 0;
+  display: flex; 
+  justify-content: space-around;
+}
+.product{
+  margin:0;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  background: pink;
+}
+.price{
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  line-height: 0;
+}
+span {
+  text-align: center;
+}
+#submit{
+  position: static;
+  margin:auto;
+  width:30%;
+}
+#video{ 
+/*moble: tamanho menor*/
+  padding-top:10px;
+  display: flex;
+flex-direction: column;
+align-items: center;
+  font-style: italic;
+  background-color: white;
+}
+.caption{
+  margin-top: 0px;
+}
+.button{ 
+/*moble: modificar o tamanho*/
+  position:relative;
+  left:30%;
+  margin:auto;
+  width:40%;
+  border: 2px;
+  color: white;
+  background-color:#ff9900;
+}
+.button:hover {
+  background-color:#f4511e;
+}
+footer {
+  padding:10px 50px 10px 0;
+  background-color: #1ABC9C;
+  text-align: right;
+  color: white;
+  font-style: italic;
+}
