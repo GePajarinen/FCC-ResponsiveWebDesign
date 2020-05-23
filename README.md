@@ -15,7 +15,7 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 ***
 ## 2. Survey Form-Library
 ------------------------
-- You can check it on: on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
+- You can check it on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
  
  ![image](https://github.com/GePajarinen/FCC-ResponsiveWebDesign/blob/master/Build%20a%20Survey%20Form/Survey%20Form.png?raw=true)
 
