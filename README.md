@@ -1,11 +1,10 @@
-# Responsive Web Design   
-Portfolio for Responsive Web Design    
+# Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
 ## 1. Tribute Page 
 ------------------
 
-Check on: [@Gesiane: Tribute Page](https://codepen.io/Gesiane/full/povYbYw)   
+- You can check it on: [@Gesiane: Tribute Page](https://codepen.io/Gesiane/full/povYbYw)   
 ![image](https://github.com/GePajarinen/FCC-ResponsiveWebDesign/blob/master/Build%20a%20Tribute%20Page/tribute.png?raw=true)   
 
 
@@ -16,7 +15,7 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 ***
 ## 2. Survey Form-Library
 ------------------------
- Check on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
+- You can check it on: on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
  
  ![image](https://github.com/GePajarinen/FCC-ResponsiveWebDesign/blob/master/Build%20a%20Survey%20Form/Survey%20Form.png?raw=true)
 
