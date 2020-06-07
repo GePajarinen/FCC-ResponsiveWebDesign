@@ -26,6 +26,20 @@ A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://c
 ***
 ## 3. Landing Page
 ------------------------
+This sample was made on Visual Studio Code, but you can check it here:   
+- [@Gesiane: Repl.it](https://candies--gesiane.repl.co/)   
 
-https://candies--gesiane.repl.co/
-..Coming.
+For this page I used 2 css sheets for different medias: 
+'min-device-width: 320px' and 'max-device-width: 500px' 
+'min-device-width: 501px'
+
+Tablet:   
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/pad.jpg?raw=true)   
+
+Desktop:   
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/Dt1.png?raw=true)  
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/Dt2.png?raw=true)
+
+Phone:   
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob1.png?raw=true)  
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob2.png?raw=true)  
