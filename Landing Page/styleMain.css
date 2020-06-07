@@ -70,9 +70,10 @@ ul{
   margin:auto;
   width:60%;
   line-height: 1.5;
-  text-align: justify;
   border-bottom:solid;
   border-width:thin;
+  text-align: center;
+  font-size: 100%;
 }
 .box{
   padding-bottom:30px;
