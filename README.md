@@ -24,7 +24,8 @@ A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://c
 [License](https://codepen.io/Gesiane/pen/OJPevNz/license).
 
 ***
-## 3. Product Landing Page
+## 3. Landing Page
 ------------------------
 
+https://candies--gesiane.repl.co/
 ..Coming.
