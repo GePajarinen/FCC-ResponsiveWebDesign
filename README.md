@@ -33,13 +33,16 @@ For this page I used 2 css sheets for different medias:
 'min-device-width: 320px' and 'max-device-width: 500px'    
 'min-device-width: 501px'   
 
-Tablet:   
+### Tablet:   
 ![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/pad.jpg?raw=true)   
+---   
 
-Desktop:   
+### Desktop:   
 ![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/Dt1.png?raw=true)  
 ![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/Dt2.png?raw=true)
+---   
 
-Phone:   
-![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob1.png?raw=true)  
+### Phone:   
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob1.png?raw=true)   
+(...)   
 ![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob2.png?raw=true)  
