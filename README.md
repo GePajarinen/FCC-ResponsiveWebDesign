@@ -29,9 +29,9 @@ A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://c
 This sample was made on Visual Studio Code, but you can check it here:   
 - [@Gesiane: Repl.it](https://candies--gesiane.repl.co/)   
 
-For this page I used 2 css sheets for different medias: 
-'min-device-width: 320px' and 'max-device-width: 500px' 
-'min-device-width: 501px'
+For this page I used 2 css sheets for different medias:    
+'min-device-width: 320px' and 'max-device-width: 500px'    
+'min-device-width: 501px'   
 
 Tablet:   
 ![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/pad.jpg?raw=true)   
