@@ -43,4 +43,6 @@ For this page I used 2 css sheets for different medias:
 ---   
 
 ### Phone:   
-![](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true)  
+<p align="center">
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true">
+</p>
