@@ -43,4 +43,9 @@ For this page I used 2 css sheets for different medias:
 ---   
 
 ### Phone:   
-![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob1.png?raw=true)![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob2.png?raw=true)  
+<p align="center">
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true">
+</p>
+
+- Online screen recorder: https://screenapp.io/#/recorder
+- Online Webm to Gif converter: https://cloudconvert.com/webm-to-gif
