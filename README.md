@@ -43,6 +43,4 @@ For this page I used 2 css sheets for different medias:
 ---   
 
 ### Phone:   
-![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob1.png?raw=true)   
-(...)   
-![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob2.png?raw=true)  
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob1.png?raw=true)![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/mob2.png?raw=true)  
