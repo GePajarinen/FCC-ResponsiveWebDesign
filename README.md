@@ -36,7 +36,7 @@ For this page I used 2 css sheets for different medias:
 ### Tablet:   
 ---   
 <p align="center"><kbd>
-  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/pad.png?raw=true" style="box-shadow: 10px 5px 15px 2px grey"></kbd>
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/pad.png?raw=true" style="border: 10px solid black"></kbd>
 </p>  
 
 ---   
