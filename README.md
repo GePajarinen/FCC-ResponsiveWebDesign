@@ -52,8 +52,11 @@ For this page I used 2 css sheets for different medias:
 
 ### Phone:   
 ---   
-<p align="center"><kbd>
-  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true" style="border: 10px solid black"></kbd>
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true" style="border: 10px solid black">   
+  <br>.gif
+ </kbd>
 </p>
 
 - Online screen recorder: https://screenapp.io/#/recorder
