@@ -7,6 +7,10 @@ Practicing at FreeCodeCamp.org
 - You can check it on: [@Gesiane: Tribute Page](https://codepen.io/Gesiane/full/povYbYw)   
 ![image](https://github.com/GePajarinen/FCC-ResponsiveWebDesign/blob/master/Build%20a%20Tribute%20Page/tribute.png?raw=true)   
 
+<p align="center">
+  <img src="https://github.com/GePajarinen/FCC-ResponsiveWebDesign/blob/master/Build%20a%20Tribute%20Page/tribute.png?raw=true" style="border: 10px solid black">
+</p>
+
 
 A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://codepen.io/Gesiane) on [CodePen](https://codepen.io).
 
@@ -43,8 +47,8 @@ For this page I used 2 css sheets for different medias:
 ---   
 
 ### Phone:   
-<p align="center">
-  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true" style="border: 10px solid black">
+<p align="center"><kbd>
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true" style="border: 10px solid black"></kbd>
 </p>
 
 - Online screen recorder: https://screenapp.io/#/recorder
