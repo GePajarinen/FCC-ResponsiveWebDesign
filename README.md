@@ -37,14 +37,14 @@ For this page I used 2 css sheets for different medias:
 ![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/pad.jpg?raw=true)   
 ---   
 
-### Desktop:   
-![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/Dt1.png?raw=true)  
-![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/Dt2.png?raw=true)
+### Desktop:
+![image](https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/desktop.gif?raw=true)  
+
 ---   
 
 ### Phone:   
 <p align="center">
-  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true">
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/phone.gif?raw=true" style="border: 10px solid black">
 </p>
 
 - Online screen recorder: https://screenapp.io/#/recorder
