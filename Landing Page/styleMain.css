@@ -124,6 +124,7 @@ span {
 }
 .caption{
   margin-top: 0px;
+  text-align: center;
 }
 .button{ 
   position:relative;
