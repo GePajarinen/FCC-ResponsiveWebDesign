@@ -41,6 +41,7 @@ For this page I used 2 css sheets for different medias:
 <p align="center">
   <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Landing%20Page/pad%20copy.png?raw=true">
 </p>   
+
 ---   
 
 ### Desktop:   
