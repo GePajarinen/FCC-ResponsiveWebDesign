@@ -1,13 +1,11 @@
 
-body{
-    width: 1064px;
-}
 .topo {
     width: 100%;
     opacity: 0.6;
-    align-content: center;
+    float: center;
     top: 0%;
-
+    padding: 50px;
+    background-color: black;
 }
 
 #navbar {
