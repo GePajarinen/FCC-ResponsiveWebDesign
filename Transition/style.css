@@ -99,5 +99,20 @@ https://stackoverflow.com/questions/22928997/css-transition-two-directions
     left: 49%;
 
 }
+footer{
+    background-color: #2b3036;
+    width: 1064px;
+    padding: 20px 0px 20px 0px;
+
+}
+
+#footer-text{
+    color: white;
+    font-size: 1em;
+    text-align: right;
+    font-style: italic;
+    margin: 0;
+    padding-right: 35px;
+}
 
 
