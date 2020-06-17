@@ -1,25 +1,25 @@
 h2{
     font-family: 'Orbitron', sans-serif;
     font-size: 2em;
+    padding: 50px 0px 0px 50px;
 }
 p{
     font-family: 'Muli', sans-serif;
     font-size: 1em;
+    padding: 0px 40px 0px 40px ;
 }
 .topo {
-    width: 100%;
+    max-width: 1024px;
     opacity: 0.6;
     float: center;
     top: 0%;
-    padding: 50px;
-    background-color: black;
 }
 
 #navbar {
     position: fixed;
     background-color: #333;
     top: 0;
-    width: 100%;
+    width: 1024px;
     z-index: 2;
   }
   
@@ -42,14 +42,21 @@ p{
   
   .box {
     float: center;
-    width: 100%;
-    padding: 50px;
-    height: 520px;
+    padding: 0px;
     margin-top: 20px;
+    width: 1024px;
+
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
   }
 
 .picard{
     background-image: url(picard.jpeg);
+    
 }
 .picard:hover{
     background-image: url(picard-0.5.jpeg);
@@ -72,9 +79,9 @@ p{
 .overlay{
     color: white;
     position: relative;
-    width: 100%;
-    padding: 50px;
-    height: 400px;
+    max-width: 1024px;
+    padding: 0px;
+    height: 100%;
     opacity: 0.0;
     transition: 0.5s;
     animation-timing-function: ease;
@@ -87,22 +94,24 @@ p{
 .overlay:hover {
     opacity: 0.6;  
     background: black;
-    width: 40%;
+    width: 50%;
     left: 0%;
     /*box-shadow: 5px 5px 10px 20px black;*/
 }
+
 /*Mudar a direção da Jane: olha isso:
 https://stackoverflow.com/questions/22928997/css-transition-two-directions
 */
 .jane:hover{
-    width: 45%;
-    left: 49%;
+    width: 50%;
+    left: 50%;
 
 }
 footer{
     background-color: #2b3036;
-    width: 1064px;
+    width: 1024px;
     padding: 20px 0px 20px 0px;
+    margin-top: 10px;
 
 }
 
@@ -114,5 +123,59 @@ footer{
     margin: 0;
     padding-right: 35px;
 }
+/* MOBILE */
 
+@media only screen and (max-width: 600px){
+    topo {
+        width: 100%;
+    }
+    
+    .box {
+        width: 100%; 
+        margin-top: 0px;
+        background-color: black;
+        height: 520px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+    }
+    
+    .picard{
+        background-image: url(picard2-375.jpg);
+        
+    }
+    .janeway{
+        background-image: url(janeway-375.jpg);
+        
+    }
+    .sisko{
+        background-image: url(sisko2-375.jpg);
+        
+    }
+    .picard:hover{
+        background-image: url(picard2-375.jpg);
+    }
+    .janeway:hover{
+        background-image: url(janeway-375.jpg);
+        
+    }
+    .sisko:hover{
+        background-image: url(sisko2-375.jpg);
+        
+    }
+    
+    .overlay:hover {
+        width: 100%;
+        
+    }
+    .jane:hover{
+        width: 100%;
+        left:0px;
+}
 
+    footer{
+        width: 100%;
+    }
+
+}
