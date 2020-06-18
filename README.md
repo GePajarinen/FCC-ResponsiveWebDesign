@@ -50,7 +50,7 @@ For this page I used 2 css sheets for different medias:
 
 ---   
 
-### Phone:   
+### Mobile:   
 ---   
 <p align="center">
  <kbd>
@@ -61,3 +61,32 @@ For this page I used 2 css sheets for different medias:
 
 - Online screen recorder: https://screenapp.io/#/recorder
 - Online Webm to Gif converter: https://cloudconvert.com/webm-to-gif
+
+***
+## 4. Transitions
+------------------------  
+This sample was made on Visual Studio Code, but you can check it here:   
+- [@Gesiane: Repl.it](https://codepen.io/Gesiane/pen/QWyKzqJ)   
+---   
+
+### Desktop:   
+---  
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Transition/video-laptop.gif?raw=true" style="border: 10px solid black" "width:100px">   
+  <br>.gif
+ </kbd>
+</p>
+
+---   
+
+### Mobile:   
+---  
+
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Responsive-Web-Design/blob/master/Transition/video-mobile.gif?raw=true" style="border: 10px solid black,  width:50px">   
+  <br>.gif
+ </kbd>
+</p>
+
