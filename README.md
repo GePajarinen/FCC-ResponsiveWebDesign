@@ -66,9 +66,8 @@ For this page I used 2 css sheets for different medias:
 ## 4. Transitions
 ------------------------  
 This sample was made on Visual Studio Code, but you can check it here:   
-- [@Gesiane: Repl.it](https://codepen.io/Gesiane/pen/QWyKzqJ)   
+- [@Gesiane: Repl.it](https://codepen.io/Gesiane/full/QWyKzqJ)   
 ---   
-
 ### Desktop:   
 ---  
 <p align="center">
