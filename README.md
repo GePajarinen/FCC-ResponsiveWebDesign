@@ -1,13 +1,11 @@
 # Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
-|    |
-|---|
-- [x] | [Tribute Page](#1-tribute-page)  |
-- [x] | [Survey Form-Library](#2-survey-form-library)  |
-- [x]  |[Landing Page](#3-landing-page) |
-| - [ ]  |Build a Technical Documentation Page   |
-| - [ ]  |Build a Personal Portfolio Webpage   |
+### - [x] [Tribute Page](#1-tribute-page)  
+- [x] [Survey Form-Library](#2-survey-form-library)  
+- [x] [Landing Page](#3-landing-page) 
+- [ ]  Build a Technical Documentation Page   
+- [ ]  Build a Personal Portfolio Webpage   
 
 - Extra:   
 [Transitions](#transitions)   
