@@ -1,13 +1,15 @@
 # Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
-[Tribute Page](#1-tribute-page)  
+|    |
+|---|
+- [x] | [Tribute Page](#1-tribute-page)  |
+- [x] | [Survey Form-Library](#2-survey-form-library)  |
+- [x]  |[Landing Page](#3-landing-page) |
+| - [ ]  |Build a Technical Documentation Page   |
+| - [ ]  |Build a Personal Portfolio Webpage   |
 
-[Survey Form-Library](#2-survey-form-library)  
-
-[Landing Page](#3-landing-page)   
-
-Extra:   
+- Extra:   
 [Transitions](#transitions)   
 
 
@@ -19,7 +21,7 @@ Extra:
 
 A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://codepen.io/Gesiane) on [CodePen](https://codepen.io).
 
-[License](https://codepen.io/Gesiane/pen/povYbYw/license).
+
 
 ***
 ## 2. Survey Form-Library
