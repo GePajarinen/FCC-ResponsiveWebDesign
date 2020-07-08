@@ -1,7 +1,7 @@
 # Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
-[Tribute Page](#tribute-page)  
+[Tribute Page](#1-tribute-page)  
 
 [Survey Form-Library](#survey-form-library)  
 
