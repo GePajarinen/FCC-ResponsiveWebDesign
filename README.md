@@ -1,9 +1,9 @@
 # Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
-[Tribute Page](#1.-tribute-page)  
+[Tribute Page](#tribute-page)  
 
-Survey Form-Library
+[Survey Form-Library](#2.-survey-form-library)
 Landing Page
 
 Extra:   
