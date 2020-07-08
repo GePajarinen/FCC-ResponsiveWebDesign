@@ -10,7 +10,7 @@ Extra:
 Transitions
 
 
-## 1. Tribute Page 
+## Tribute Page 
 ------------------
 
 - You can check it on: [@Gesiane: Tribute Page](https://codepen.io/Gesiane/full/povYbYw)   
