@@ -3,7 +3,7 @@ Practicing at FreeCodeCamp.org
 ***
 [Tribute Page](#tribute-page)  
 
-[Survey Form-Library](#2.-survey-form-library)
+[Survey Form-Library](#survey-form-library)   
 Landing Page
 
 Extra:   
