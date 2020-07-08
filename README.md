@@ -7,6 +7,7 @@ Practicing at FreeCodeCamp.org
 ### :black_square_button:  Build a Technical Documentation Page   
 ### :black_square_button:  Build a Personal Portfolio Webpage   
 
+
 - Extra:   
 ### [Transitions](#transitions)   
 
@@ -30,9 +31,8 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 
 A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://codepen.io/Gesiane) on [CodePen](https://codepen.io).
 
+### [:arrow_heading_up:](#portfolio-for-responsive-web-design)   
 
-
-[:arrow_heading_up:](#portfolio-for-responsive-web-design)
 ***
 ## 3. Landing Page
 ------------------------
@@ -73,7 +73,8 @@ For this page I used 2 css sheets for different medias:
 - Online screen recorder: https://screenapp.io/#/recorder
 - Online Webm to Gif converter: https://cloudconvert.com/webm-to-gif
 
-[:arrow_heading_up:](#portfolio-for-responsive-web-design)
+### [:arrow_heading_up:](#portfolio-for-responsive-web-design)
+
 ***
 ## Transitions
 ------------------------  
@@ -102,4 +103,4 @@ This sample was made on Visual Studio Code, but you can check it here:
  </kbd>
 </p>
 
-[:arrow_heading_up:](#portfolio-for-responsive-web-design)
+### [:arrow_heading_up:](#portfolio-for-responsive-web-design)   
