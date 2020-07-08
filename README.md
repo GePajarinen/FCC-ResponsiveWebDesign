@@ -10,6 +10,7 @@ Practicing at FreeCodeCamp.org
 
 - Extra:   
 ### [Transitions](#transitions)   
+---
 
 
 ## 1. Tribute Page 
