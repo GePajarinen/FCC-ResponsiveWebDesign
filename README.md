@@ -3,9 +3,9 @@ Practicing at FreeCodeCamp.org
 ***
 [Tribute Page](#1-tribute-page)  
 
-[Survey Form-Library](#survey-form-library)  
+[Survey Form-Library](#2-survey-form-library)  
 
-[Landing Page](#landing-page)   
+[Landing Page](#3-landing-page)   
 
 Extra:   
 [Transitions](#transitions)   
@@ -22,7 +22,7 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 [License](https://codepen.io/Gesiane/pen/povYbYw/license).
 
 ***
-## Survey Form-Library
+## 2. Survey Form-Library
 ------------------------
 - You can check it on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
  
@@ -30,10 +30,11 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 
 A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://codepen.io/Gesiane) on [CodePen](https://codepen.io).
 
-[License](https://codepen.io/Gesiane/pen/OJPevNz/license).
 
+
+[^ Back to Top ](#portfolio-for-responsive-web-design)
 ***
-## Landing Page
+## 3. Landing Page
 ------------------------
 This sample was made on Visual Studio Code, but you can check it here:   
 - [@Gesiane: Repl.it](https://candies--gesiane.repl.co/)   
@@ -72,6 +73,7 @@ For this page I used 2 css sheets for different medias:
 - Online screen recorder: https://screenapp.io/#/recorder
 - Online Webm to Gif converter: https://cloudconvert.com/webm-to-gif
 
+[^ Back to Top ](#portfolio-for-responsive-web-design)
 ***
 ## Transitions
 ------------------------  
@@ -100,3 +102,4 @@ This sample was made on Visual Studio Code, but you can check it here:
  </kbd>
 </p>
 
+[^ Back to Top ](#portfolio-for-responsive-web-design)
