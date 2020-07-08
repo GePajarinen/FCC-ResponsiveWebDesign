@@ -1,11 +1,11 @@
 # Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
-### [:ballot_box_with_check:] [Tribute Page](#1-tribute-page)  
-### [:ballot_box_with_check:] [Survey Form-Library](#2-survey-form-library)  
-### [:ballot_box_with_check:] [Landing Page](#3-landing-page) 
-### [:black_square_button:]  Build a Technical Documentation Page   
-### [:black_square_button:]  Build a Personal Portfolio Webpage   
+### :ballot_box_with_check: [Tribute Page](#1-tribute-page)  
+### :ballot_box_with_check: [Survey Form-Library](#2-survey-form-library)  
+### :ballot_box_with_check: [Landing Page](#3-landing-page) 
+### :black_square_button:  Build a Technical Documentation Page   
+### :black_square_button:  Build a Personal Portfolio Webpage   
 
 - Extra:   
 ### [Transitions](#transitions)   
