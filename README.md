@@ -1,14 +1,14 @@
 # Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
 ***
-### - [x] [Tribute Page](#1-tribute-page)  
-- [x] [Survey Form-Library](#2-survey-form-library)  
-- [x] [Landing Page](#3-landing-page) 
-- [ ]  Build a Technical Documentation Page   
-- [ ]  Build a Personal Portfolio Webpage   
+### [:ballot_box_with_check:] [Tribute Page](#1-tribute-page)  
+### [:ballot_box_with_check:] [Survey Form-Library](#2-survey-form-library)  
+### [:ballot_box_with_check:] [Landing Page](#3-landing-page) 
+### [:black_square_button:]  Build a Technical Documentation Page   
+### [:black_square_button:]  Build a Personal Portfolio Webpage   
 
 - Extra:   
-[Transitions](#transitions)   
+### [Transitions](#transitions)   
 
 
 ## 1. Tribute Page 
@@ -32,7 +32,7 @@ A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://c
 
 
 
-[^ Back to Top ](#portfolio-for-responsive-web-design)
+[:arrow_heading_up:](#portfolio-for-responsive-web-design)
 ***
 ## 3. Landing Page
 ------------------------
@@ -73,7 +73,7 @@ For this page I used 2 css sheets for different medias:
 - Online screen recorder: https://screenapp.io/#/recorder
 - Online Webm to Gif converter: https://cloudconvert.com/webm-to-gif
 
-[^ Back to Top ](#portfolio-for-responsive-web-design)
+[:arrow_heading_up:](#portfolio-for-responsive-web-design)
 ***
 ## Transitions
 ------------------------  
@@ -102,4 +102,4 @@ This sample was made on Visual Studio Code, but you can check it here:
  </kbd>
 </p>
 
-[^ Back to Top ](#portfolio-for-responsive-web-design)
+[:arrow_heading_up:](#portfolio-for-responsive-web-design)
