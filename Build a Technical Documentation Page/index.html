@@ -6,6 +6,7 @@
 <head>  
   <!--  Meta  -->
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Documentation</title>
   
   <!--  Styles  -->
@@ -16,7 +17,9 @@
 
 <body>
   <nav id="navbar">
-    <header>Some Documentation</header>
+    <header id="main"> 
+      <button class="openbtn" onclick="openNav()"> ☰ Some Documentation</button> 
+    </header>
     <ul>
       <li><a class="nav-link" href="#Start">Start</a></li>
       <li><a class="nav-link" href="#What_you_should_already_know">What you should already know</a></li>
@@ -276,7 +279,17 @@
       </article>
     </section>
   </main>
- 
+  <script>
+    function openNav() {
+      document.getElementById("navbar").style.width = "250px";
+      document.getElementById("main").style.marginLeft = "250px";
+    }
+    
+    function closeNav() {
+      document.getElementById("navbar").style.width = "0";
+      document.getElementById("main").style.marginLeft= "0";
+    }
+    </script>
 
 </body>
 </html>
