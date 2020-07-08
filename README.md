@@ -3,11 +3,12 @@ Practicing at FreeCodeCamp.org
 ***
 [Tribute Page](#tribute-page)  
 
-[Survey Form-Library](#survey-form-library)   
-Landing Page
+[Survey Form-Library](#survey-form-library)  
+
+[Landing Page](#landing-page)   
 
 Extra:   
-Transitions
+[Transitions](#transitions)   
 
 
 ## Tribute Page 
@@ -21,7 +22,7 @@ A [Pen](https://codepen.io/Gesiane/pen/povYbYw) by [Gesiane Pajarinen](https://c
 [License](https://codepen.io/Gesiane/pen/povYbYw/license).
 
 ***
-## 2. Survey Form-Library
+## Survey Form-Library
 ------------------------
 - You can check it on: [@Gesiane: Survey Form-Library](https://codepen.io/Gesiane/full/OJPevNz)   
  
@@ -32,7 +33,7 @@ A [Pen](https://codepen.io/Gesiane/pen/OJPevNz) by [Gesiane Pajarinen](https://c
 [License](https://codepen.io/Gesiane/pen/OJPevNz/license).
 
 ***
-## 3. Landing Page
+## Landing Page
 ------------------------
 This sample was made on Visual Studio Code, but you can check it here:   
 - [@Gesiane: Repl.it](https://candies--gesiane.repl.co/)   
