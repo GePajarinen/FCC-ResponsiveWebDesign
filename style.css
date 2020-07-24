@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+.container{
+    height: 700px;
+   
+}
+.navbar{
+    background-color: #c9df69;
+    height: 50px;
+    width: 100%;
+}
+#home{
+    position: relative;
+    background: linear-gradient(138deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    z-index: -1;
+}
+
+.objeto{
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#redondo1{
+    height: 700px;
+  width: 700px;
+    background-color: #000080;
+    position: relative;
+  left: -5%;
+  top: 100px;
+}
+#redondo2{
+    height: 290px;
+  width: 290px;
+    background-color: #80005a;
+    position: absolute;
+  left: 80%;
+  bottom: 10px;
+}
+
+#redondo3{
+    height: 300px;
+  width: 300px;
+    background-color: #c9df69; 
+    position: absolute;
+  top: 0px;
+  right: 0;
+}
+
+#galeria{
+    position: relative;
+    background-color: white;
+    z-index: 1;
+}
