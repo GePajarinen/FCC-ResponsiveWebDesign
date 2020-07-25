@@ -6,14 +6,24 @@ body{
   margin:0;
 }
 
-h2{
+h2 {
   font-family: 'Playfair Display', serif;
   font-weight: normal;
   text-align: center;
-  position: relative;
-  top: 25%;
   margin: auto;
   font-size: 30px;
+}
+
+.textbox{
+  position: relative;
+  margin: auto;
+  top: 90px;
+  
+}
+
+.h2box{
+  position: relative;
+  top:20%;
 }
 
 nav {
@@ -102,9 +112,7 @@ input{
   height: 500px;
 
 }
-.box{
-  padding-bottom:30px;
-}
+
 
 .block{
   box-sizing: border-box;
