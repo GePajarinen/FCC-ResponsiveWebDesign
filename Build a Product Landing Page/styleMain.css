@@ -22,11 +22,10 @@ h2 {
 }
 
 nav {
-  position: sticky;
   font-family: 'Pacifico', cursive;
-  z-index: 1;
   background-color: #ff9595;
   height: 40px;
+  padding: 10px 0px 15px 0px;
 }
 
 a {
