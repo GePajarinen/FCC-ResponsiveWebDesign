@@ -113,6 +113,11 @@ input{
 
 }
 
+.div-video{
+  margin: auto;
+  position: relative;
+  top: 1px;
+}
 
 .block{
   box-sizing: border-box;
@@ -153,8 +158,9 @@ span {
   background-color: white;
 }
 .caption{
-  margin-top: 0px;
+  margin: auto;
   text-align: center;
+  
 }
 
 footer {
