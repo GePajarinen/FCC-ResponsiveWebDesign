@@ -111,4 +111,9 @@ li a:hover {
     
 }
 
-.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.icones {
+  color: white;
+  font-size: 36px;
+  float: right;
+  margin: 10px 50px 10px 10px;
+}
