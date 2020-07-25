@@ -14,7 +14,6 @@ html,body
 ul{
     position: fixed;
     z-index: 2;
-    background-color: #212529;;
     height: 50px;
     width: 100%;
     margin: 0;
@@ -22,10 +21,12 @@ ul{
     list-style-type: none;
     overflow: hidden;
     display: grid;
-    grid-template-columns: 30% 10% 10% 10% 10% 30%;
+    grid-template-columns: 25% 10% 10% 15% 10% 30%;
+    background-color:#333333;
 }
 
 li a {
+  
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -114,6 +115,16 @@ li a:hover {
 .icones {
   color: white;
   font-size: 36px;
-  float: right;
+  position: absolute;
+  top: 30%;
+  left :90%;
   margin: 10px 50px 10px 10px;
+  z-index: 1;
+}
+.icone{
+  margin-top: 20px;
+}
+.icone:hover{
+  color:#000080;
+  transition: 0.5s;
 }
