@@ -114,7 +114,7 @@ This was made on Visual Studio Code, but you can check it here:
 
 ***
 
-## Transitions
+## Transitions   
 ------------------------  
 
 Responsive imagens with overlay transition CSS.   
