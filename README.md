@@ -10,7 +10,7 @@ Practicing at FreeCodeCamp.org
 
 
 - Extra:   
-### [Transitions](#transitions)   
+### [Transitions](#6-transitions)   
 ---
 
 
@@ -114,7 +114,7 @@ This was made on Visual Studio Code, but you can check it here:
 
 ***
 
-## Transitions   
+## 6. Transitions   
 ------------------------  
 
 Responsive imagens with overlay transition CSS.   
