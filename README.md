@@ -1,5 +1,8 @@
 # Portfolio for Responsive Web Design    
 Practicing at FreeCodeCamp.org
+By working on this project I had the opportunity of applying all the skills, principles and concepts I have learnt so far HTML, CSS, Visual Design, Accessibility, etc.
+I got the chance to:
+
 ***
 
 ### :ballot_box_with_check: [Tribute Page](#1-tribute-page)  
